@@ -1,0 +1,19 @@
+.row {
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+button, input {
+  margin-top: .3em;
+  margin-bottom: .3em;
+  margin-left: .3em;
+  margin-right: .3em;
+}
+
+.fas.fa-trash-alt {
+}
+
+row.h4, h4 {
+  margin-top: 2em;
+}
+
